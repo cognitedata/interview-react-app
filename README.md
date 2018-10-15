@@ -1,4 +1,4 @@
-# Cognite co-op interview
+# Cognite interview workspace
 
 This boilerplate is provided for candidates before interviews so we can spend as much time as possible doing interesting stuff in the interview.
 
